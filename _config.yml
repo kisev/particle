@@ -9,12 +9,16 @@ username: Kirill Sevriugin
 user_description: kisev
 user_title: DevOps Engineer
 email: kisevme@gmail.com
-twitter_username: kisev
-github_username: kisev
-gplus_username: kisev
+github: kisev
+linkedin: kisev
+skype: live:kirillsev
+telegram: kisev
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-117622777-1"
+
+yandex-metrika:
+  id: "44699182"
 
 exclude: ['package.json', 'src' , 'node_modules']
