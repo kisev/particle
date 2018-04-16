@@ -17,4 +17,7 @@ gplus_username: kisev
 google-analytics:
   id: ""
 
+yandex-metrika:
+  id: "44699182"
+
 exclude: ['package.json', 'src' , 'node_modules']
