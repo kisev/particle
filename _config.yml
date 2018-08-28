@@ -1,6 +1,7 @@
 # Site settings
 title: Kirill Sevriugin
 description: DevOps Engineer
+about: "I am a highly skilled DevOps engineer with more than 6 years of experience. My job is my hobby, and I am very passionate about it. I love, believe and participate in OpenSource. I have much experience as a Senior DevOps engineer."
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://kisev.me"
 
